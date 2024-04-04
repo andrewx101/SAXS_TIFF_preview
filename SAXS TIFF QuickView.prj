@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2427926852" file="C:\Users\Andrew\OneDrive\Programming\SAXS_TIFF_preview\SAXS TIFF QuickView.prj" location="C:\Users\Andrew\OneDrive\Programming\SAXS_TIFF_preview" name="SAXS TIFF QuickView" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1823632443" file="C:\Users\Andrew\OneDrive\Programming\SAXS_TIFF_preview\SAXS TIFF QuickView.prj" location="C:\Users\Andrew\OneDrive\Programming\SAXS_TIFF_preview" name="SAXS TIFF QuickView" target="target.mlapps" target-name="Package App">
     <param.appname>SAXS TIFF QuickView</param.appname>
     <param.authnamewatermark>Weixiang Sun</param.authnamewatermark>
     <param.email>mswxsun@scut.edu.cn</param.email>
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>View TIFF image.</param.summary>
     <param.description>For viewing TIFF with large bit depth (e.g. 32-bit), while in search of low intensity features. The slider bar is designed for easily adjustment in the low intensity region while the total bit depth is orders of magnitudes larger.</param.description>
-    <param.screenshot>C:\Users\Andrew\AppData\Local\Temp\tpe70c06ad_7eae_41d9_ada1_a35e9b078936.png</param.screenshot>
+    <param.screenshot>C:\Users\Andrew\AppData\Local\Temp\tpa05a09d4_8c9b_46d8_a010_5b8215f15664.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
